@@ -5,3 +5,18 @@ updates:
   schedule:
     interval: daily
   open-pull-requests-limit: 99
+- package-ecosystem: npm
+  directory: "/src/http/get-index/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 99
+- package-ecosystem: npm
+  directory: "/src/http/post-count/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 99
+- package-ecosystem: npm
+  directory: "/src/http/post-reset/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 99
