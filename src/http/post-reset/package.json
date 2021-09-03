@@ -1,6 +1,0 @@
-{
-  "name": "post-reset",
-  "dependencies": {
-    "@architect/functions": "^3.5.0"
-  }
-}

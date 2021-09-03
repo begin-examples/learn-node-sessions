@@ -1,6 +1,0 @@
-{
-  "name": "post-count",
-  "dependencies": {
-    "@architect/functions": "^3.5.0"
-  }
-}
